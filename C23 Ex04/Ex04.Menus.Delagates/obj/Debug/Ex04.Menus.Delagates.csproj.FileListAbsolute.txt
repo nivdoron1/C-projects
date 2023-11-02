@@ -1,0 +1,6 @@
+C:\Users\nivdo\source\repos\C23 Ex04 NivDoron 322547282 ShellyDoron 209019637\Ex04.Menus.Delagates\obj\Debug\Ex04.Menus.Delagates.csproj.AssemblyReference.cache
+C:\Users\nivdo\source\repos\C23 Ex04 NivDoron 322547282 ShellyDoron 209019637\Ex04.Menus.Delagates\obj\Debug\Ex04.Menus.Delagates.csproj.CoreCompileInputs.cache
+C:\Users\nivdo\source\repos\C23 Ex04 NivDoron 322547282 ShellyDoron 209019637\Ex04.Menus.Delagates\bin\Debug\Ex04.Menus.Delagates.dll
+C:\Users\nivdo\source\repos\C23 Ex04 NivDoron 322547282 ShellyDoron 209019637\Ex04.Menus.Delagates\bin\Debug\Ex04.Menus.Delagates.pdb
+C:\Users\nivdo\source\repos\C23 Ex04 NivDoron 322547282 ShellyDoron 209019637\Ex04.Menus.Delagates\obj\Debug\Ex04.Menus.Delagates.dll
+C:\Users\nivdo\source\repos\C23 Ex04 NivDoron 322547282 ShellyDoron 209019637\Ex04.Menus.Delagates\obj\Debug\Ex04.Menus.Delagates.pdb

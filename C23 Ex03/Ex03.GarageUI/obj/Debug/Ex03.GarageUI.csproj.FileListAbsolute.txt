@@ -1,0 +1,9 @@
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\bin\Debug\Ex03.GarageUI.exe
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\bin\Debug\Ex03.GarageUI.pdb
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\bin\Debug\Ex03.GameLogic.dll
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\bin\Debug\Ex03.GameLogic.pdb
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\obj\Debug\Ex03.GarageUI.csproj.AssemblyReference.cache
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\obj\Debug\Ex03.GarageUI.csproj.CoreCompileInputs.cache
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\obj\Debug\Ex03.GarageUI.csproj.CopyComplete
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\obj\Debug\Ex03.GarageUI.exe
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GarageUI\obj\Debug\Ex03.GarageUI.pdb

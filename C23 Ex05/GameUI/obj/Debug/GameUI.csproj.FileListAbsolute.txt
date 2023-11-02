@@ -1,0 +1,13 @@
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\GameUI.csproj.AssemblyReference.cache
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\bin\Debug\GameUI.exe
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\bin\Debug\GameUI.pdb
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\bin\Debug\GameLogic.dll
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\GameUI.exe
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\GameUI.pdb
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\ColorChooser.resources
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\UI.GameUI.resources
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\InitialSettingForm.resources
+C:\Users\nivdo\source\repos\C23 Ex05 Niv 322547282 Shelly 209019637\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache

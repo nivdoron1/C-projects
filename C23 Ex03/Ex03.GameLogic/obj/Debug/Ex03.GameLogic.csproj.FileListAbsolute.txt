@@ -1,0 +1,6 @@
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GameLogic\obj\Debug\Ex03.GameLogic.csproj.AssemblyReference.cache
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GameLogic\obj\Debug\Ex03.GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GameLogic\bin\Debug\Ex03.GameLogic.dll
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GameLogic\bin\Debug\Ex03.GameLogic.pdb
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GameLogic\obj\Debug\Ex03.GameLogic.dll
+C:\Users\nivdo\source\repos\C23 Ex03 NivDoron 322547282 ShellyDoron 209019637\Ex03.GameLogic\obj\Debug\Ex03.GameLogic.pdb
